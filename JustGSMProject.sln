@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Just.Main", "Just.Main\Just.Main.csproj", "{72656A6E-D8F5-4769-9F6C-E577D5A866AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGSM.Common", "JustGSM.Common\JustGSM.Common.csproj", "{26BAD142-F0A3-4348-8603-9597B171C89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72656A6E-D8F5-4769-9F6C-E577D5A866AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72656A6E-D8F5-4769-9F6C-E577D5A866AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72656A6E-D8F5-4769-9F6C-E577D5A866AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72656A6E-D8F5-4769-9F6C-E577D5A866AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BAD142-F0A3-4348-8603-9597B171C89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BAD142-F0A3-4348-8603-9597B171C89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BAD142-F0A3-4348-8603-9597B171C89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BAD142-F0A3-4348-8603-9597B171C89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
